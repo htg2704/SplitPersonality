@@ -5,4 +5,5 @@
     <color name="colorAccent">#C72A09</color>
     <color name="black">#000</color>
     <color name="text_white">#F8F6F6</color>
+    <color name="homeBackground">@drawable/gradient3</color>
 </resources>
